@@ -1,5 +1,5 @@
 # 💫 About Me:
-● Pre-final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.<br>👀 I’m interested in ... web development.<br>🌱 I’m currently learning ... web devlopment and data structure & algorithm<br>💞️ I’m looking to collaborate on ...open source<br>📫 How to reach me ... https://www.linkedin.com/in/golu-kumar-3a9ab7216/ -(linkdin url)
+● final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.<br>👀 I’m interested in ... web development.<br>🌱 I’m currently learning ... web devlopment and data structure & algorithm<br>💞️ I’m looking to collaborate on ...open source<br>📫 How to reach me ... https://www.linkedin.com/in/golu-kumar-3a9ab7216/ -(linkdin url)
 
 
 ## 🌐 Socials:
